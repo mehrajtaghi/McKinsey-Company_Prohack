@@ -1,2 +1,2 @@
-# McKinsey_-_Company_Prohack
+# McKinsey_Company_Prohack
 Prediction &amp; Optimization
